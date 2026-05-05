@@ -75,7 +75,7 @@ class Fatih:
 
 <div align="center">
 
-*"Writing code is an art; debugging is a test of patience."* 🧘
+
 
 
 </div>
