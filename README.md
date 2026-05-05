@@ -77,6 +77,5 @@ class Fatih:
 
 *"Writing code is an art; debugging is a test of patience."* 🧘
 
-![Visitor Count](https://komarev.com/ghpvc/?username=fatihsoyer9008&color=58A6FF&style=for-the-badge&label=Visitors)
 
 </div>
