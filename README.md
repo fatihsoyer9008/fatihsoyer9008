@@ -28,7 +28,7 @@ class Fatih:
     university  = "Bursa Uludag University"
     year        = "2nd Year Undergraduate Student"
     focus       = ["Machine Learning", "Mobile App Development", "API Development"]
-    community   = "Events Department @ ULUDOTT (Digital Game Design Community)"
+    community   = "Software Department @ OTAGG (Autonomous Vehicle Development Group)"
     currently   = "Working on ML models and Flutter apps 🚀"
     motto       = "Make it work, then optimize it."
 ```
@@ -68,8 +68,8 @@ class Fatih:
 - 🎓 Studying **Computer Engineering** at Bursa Uludag University
 - 📱 Building cross-platform mobile apps with **Flutter**
 - 🤖 Working on **Machine Learning** models and playing with data
+- 💻 I work in the software department at Otagg.
 - 🔌 Designing and consuming **REST API** integrations
-- 🎮 Serving in the Events Department at **ULUDOTT**
 
 ---
 
